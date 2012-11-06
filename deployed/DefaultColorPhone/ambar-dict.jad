@@ -1,0 +1,12 @@
+MIDlet-1: Ambar,,ambar.Main
+MIDlet-Delete-Notify: We hope you http://ambar-dict.sf.net for better version, or you can tell us why you didn't like this application.
+MIDlet-Description: [BETA] Dictionary and OCR translator using mobile-camera.
+MIDlet-Info-URL: http://ambar-dict.sf.net
+MIDlet-Install-Notify: This application is licenced under GPL v3.0. You can get more information about your rights in this application at: http://ambar-dict.sf.net.
+MIDlet-Jar-Size: 1171529
+MIDlet-Jar-URL: ambar-dict.jar
+MIDlet-Name: Ambar Dictionary
+MIDlet-Vendor: Omar Al-Dolaimy (i@omardo.com)
+MIDlet-Version: 1.0.7
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
